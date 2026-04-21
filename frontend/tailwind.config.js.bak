@@ -1,0 +1,17 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        'civic-blue': '#1a365d',
+        'civic-red': '#c53030',
+        'civic-gray': '#f7fafc',
+      }
+    },
+  },
+  plugins: [],
+}

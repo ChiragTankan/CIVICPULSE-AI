@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+google-cloud-aiplatform
+google-api-python-client
+python-multipart
+icalendar
+pydantic-settings
+python-dotenv
